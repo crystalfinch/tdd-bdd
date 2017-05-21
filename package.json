@@ -1,0 +1,17 @@
+{
+  "name": "tdd-bdd",
+  "version": "0.1.0",
+  "description": "JavaScript Tests with BDD",
+  "main": "js/script.js",
+  "scripts": {
+    "start": "karma start karma.conf.js"
+  },
+  "author": "Crystal Finch",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^2.6.2",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.1.1",
+    "karma-jasmine": "^1.1.0"
+  }
+}
