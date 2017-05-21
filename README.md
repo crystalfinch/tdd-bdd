@@ -1,2 +1,1 @@
-# tdd-bdd
-JavaScript Tests with BDD
+### JavaScript Tests with BDD
